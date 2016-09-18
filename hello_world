@@ -1,0 +1,12 @@
+//Prokekt "Hello World" by https://github.com/godlikecs12
+
+#include <iostream>
+#include <cstdlib>
+
+int main()
+{
+	std::cout << "Hello World" << std::endl;		//Ausgabe
+	system("PAUSE");								//cmd offen lassen
+	return 0;
+
+}
